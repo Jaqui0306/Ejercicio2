@@ -23,7 +23,7 @@ Cada artículo incluye una imagen, un título y una fecha de publicación, organ
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/Jaqui0306/Ejercicio2
-Deploy: 
+Deploy:  https://jaqui0306.github.io/Ejercicio2/
 ---
 
 ## 📝 Reflexión
